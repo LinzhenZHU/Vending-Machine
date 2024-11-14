@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1683408049 source:c:\codeblocks\c++\cw20215620\vm_imp.cpp
+	<iostream>
+	<ctime>
+	<iomanip>
+	<unistd.h>
+	<string>
+	<limits>
+	"fstream"
+	"ProductItem.h"
+	"VendingMachine.h"
+	"System.h"
+
+1683405702 c:\codeblocks\c++\cw20215620\productitem.h
+	<string>
+
+1683407426 c:\codeblocks\c++\cw20215620\vendingmachine.h
+	<string>
+	"System.h"
+	"ProductItem.h"
+
+1683379275 c:\codeblocks\c++\cw20215620\systemtime.h
+	<string>
+
+1683407614 source:c:\codeblocks\c++\cw20215620\main.cpp
+	<iostream>
+	<conio.h>
+	<iomanip>
+	"ProductItem.h"
+	"VendingMachine.h"
+	"System.h"
+
+1683407420 c:\codeblocks\c++\cw20215620\system.h
+	<string>
+
